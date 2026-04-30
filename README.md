@@ -2,9 +2,9 @@ COVID-19 VACCINATION MANAGEMENT SYSTEM
 Course Assignment -- Hult International Business School
 Subject: Database Design & SQL
  
-================================================================================
+
 OVERVIEW
-================================================================================
+
  
 This project is a relational database system designed to manage and coordinate
 COVID-19 vaccination logistics. The database tracks patients, healthcare workers,
@@ -15,9 +15,9 @@ Database name: vaccination_management
 Built with:    MySQL
  
  
-================================================================================
+
 SCHEMA -- TABLES
-================================================================================
+
  
 address
   Shared address registry used by both hospitals and patients.
